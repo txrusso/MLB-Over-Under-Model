@@ -23,7 +23,7 @@ Using publicly available MLB data and historical betting lines, multiple models 
 ├── data_creation.ipynb      # Data collection, cleaning, and feature engineering
 ├── models.ipynb             # Modeling, evaluation, and betting strategy
 ├── ROI.py                   # Functions for bet simulation and ROI calculation
-├── model.csv                # Final dataset used for modeling
+├── model_data.csv                # Final dataset used for modeling
 └── README.md                # Project documentation
 ```
 
